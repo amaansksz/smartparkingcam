@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Parkit",
+    "slug": "Parkit",
+    "newArchEnabled": true,
+    "updates": {
+      "enabled": false
+    },
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./app/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "52.0.0",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.Parkit"
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    }
+  }
+}
